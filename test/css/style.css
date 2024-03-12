@@ -1,0 +1,237 @@
+body {
+    font-family:"Kumbh Sans", sans-serif;;
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+}
+
+div, p, input, button, form, span, a, ul, li {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+
+
+.header-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+}
+
+.logo {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.header-nav {
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.navigation {
+    color: #4A556C;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.header__burger {
+    display: none;
+}
+
+.link {
+    margin-top: 10px;
+}
+
+.btn {
+    color: #FFF;
+    font-weight: 600;
+    font-size: 14px;
+    background-color: #20AD96;
+    width: 193px;
+    display: block;
+    padding: 11px 0px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.6s ease;
+    transition: all 0.3s ease;
+}
+
+
+.btn:hover {
+    background-color: #3ED1B9;
+    width: 200px;
+}
+
+.hero {
+    background-color: #FAF8F6;
+}
+
+.vector {
+    padding-top: 55px;
+    position: relative;
+    left: -55px;
+}
+
+.wrraper {
+    display: flex;
+    
+}
+
+.block-1 {
+    margin-top: 68px;
+   
+}
+
+.txt-proven {
+    font-size: 14px;
+    color: #4A556C;
+    opacity: 40%;
+    padding-bottom: 6px;
+}
+
+.live-life {
+    color: #333461;
+    font-weight: 800;
+    font-size: 72px;
+    max-width: 520px;
+}
+
+.I-help-people {
+    color: #4A556C;
+    font-size: 18px;
+    max-width: 545px;
+    line-height: 28px;
+    padding-top: 18px;
+}
+
+.btn2 {
+    margin-top: 18px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #FFF;
+    background-color:  #20AD96;
+    width: 250px;
+    display: block;
+    padding: 9px 0px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.6s ease;
+    transition: all 0.3s ease;
+}
+
+.btn2:hover {
+    background-color: #3ED1B9;
+    width: 260px;
+}
+
+.block-2 {
+    margin-left: 182px;
+    position: relative;
+    top: 30px;
+}
+
+
+.offer {
+    width: 237px;
+    height: 104px;
+    background: url(/img/protection-target\ 1.png) left;
+    background-repeat: no-repeat;
+    background-position: 10%; 
+    background-color: #FFF;
+    position: relative;
+    left: -25%;
+    bottom: 92%;
+    position: absolute;
+}
+
+
+.interest {
+    font-family: "AvertaStd-Black";
+    color: #333461;
+    font-size: 24px;
+    margin-left: 96px;
+    padding-top: 24px;
+}
+
+.success {
+    font-family: "AvertaStd-Regular";
+    color: #4A556C;
+    font-size: 12px;
+    margin-left: 96px;
+    padding-top: 6px;
+}
+
+.section {
+    padding-top: 110px;
+    padding-bottom: 101px;
+}
+
+.container2 {
+    display: flex;
+    margin-top: 32px;
+}
+
+
+.i-can-help-you {
+    color:  #333461;
+    font-weight: 800;
+    font-size: 48px;
+    max-width: 600px;
+}
+
+.text-lorem {
+    max-width: 468px;
+    color: #4A556C;
+    font-size: 17px;
+    line-height: 25px;
+}
+
+.lorem {
+    margin-top: 25px;
+}
+
+.blocks {
+    display: flex;
+    
+}
+
+.block {
+    margin-top: 56px;
+    margin-right: 110px;
+}
+
+
+.blocks-title{
+    font-size: 24px;
+    font-weight: 700;
+    color: #041434;
+    padding-top: 32px;
+}
+
+.txt-lorem-ipsum {
+    font-size: 16px;
+    color: #4A556C;
+    width: 300px;
+    padding-top: 16px;
+    line-height: 24px;
+}
+
+
+
+
